@@ -13,3 +13,5 @@
 ![](./img/cdn-004.drawio.svg)
 
 ## 参考
+
+[CloudFront FunctionsでIP制限を試してみた](https://dev.classmethod.jp/articles/cloudfront-functions-ip-control/)
